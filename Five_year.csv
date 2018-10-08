@@ -1,0 +1,1888 @@
+﻿Survival Rate,Year,Race,Gender,Cancer Type
+0.559,1977,All races,females,All cancers
+0.55,1980,All races,females,All cancers
+0.551,1983,All races,females,All cancers
+0.576,1986,All races,females,All cancers
+0.596,1989,All races,females,All cancers
+0.609,1992,All races,females,All cancers
+0.618,1995,All races,females,All cancers
+0.636,1998,All races,females,All cancers
+0.657,2001,All races,females,All cancers
+0.669,2006,All races,females,All cancers
+0.691,2013,All races,females,All cancers
+0.417,1977,All races,males,All cancers
+0.431,1980,All races,males,All cancers
+0.452,1983,All races,males,All cancers
+0.472,1986,All races,males,All cancers
+0.511,1989,All races,males,All cancers
+0.591,1992,All races,males,All cancers
+0.608,1995,All races,males,All cancers
+0.63,1998,All races,males,All cancers
+0.663,2001,All races,males,All cancers
+0.681,2006,All races,males,All cancers
+0.692,2013,All races,males,All cancers
+0.489,1977,All races,total,All cancers
+0.49,1980,All races,total,All cancers
+0.502,1983,All races,total,All cancers
+0.524,1986,All races,total,All cancers
+0.553,1989,All races,total,All cancers
+0.599,1992,All races,total,All cancers
+0.613,1995,All races,total,All cancers
+0.633,1998,All races,total,All cancers
+0.66,2001,All races,total,All cancers
+0.675,2006,All races,total,All cancers
+0.692,2013,All races,total,All cancers
+,1963,Black,females,All cancers
+,1973,Black,females,All cancers
+0.462,1977,Black,females,All cancers
+0.456,1980,Black,females,All cancers
+0.444,1983,Black,females,All cancers
+0.455,1986,Black,females,All cancers
+0.477,1989,Black,females,All cancers
+0.482,1992,Black,females,All cancers
+0.506,1995,Black,females,All cancers
+0.521,1998,Black,females,All cancers
+0.543,2001,Black,females,All cancers
+0.558,2006,Black,females,All cancers
+0.603,2013,Black,females,All cancers
+,1963,Black,males,All cancers
+,1973,Black,males,All cancers
+0.327,1977,Black,males,All cancers
+0.333,1980,Black,males,All cancers
+0.342,1983,Black,males,All cancers
+0.355,1986,Black,males,All cancers
+0.389,1989,Black,males,All cancers
+0.476,1992,Black,males,All cancers
+0.545,1995,Black,males,All cancers
+0.579,1998,Black,males,All cancers
+0.611,2001,Black,males,All cancers
+0.636,2006,Black,males,All cancers
+0.659,2013,Black,males,All cancers
+0.27,1963,Black,total,All cancers
+0.31,1973,Black,total,All cancers
+0.39,1977,Black,total,All cancers
+0.39,1980,Black,total,All cancers
+0.388,1983,Black,total,All cancers
+0.402,1986,Black,total,All cancers
+0.43,1989,Black,total,All cancers
+0.479,1992,Black,total,All cancers
+0.528,1995,Black,total,All cancers
+0.552,1998,Black,total,All cancers
+0.58,2001,Black,total,All cancers
+0.599,2006,Black,total,All cancers
+0.633,2013,Black,total,All cancers
+,1963,White,females,All cancers
+,1973,White,females,All cancers
+0.565,1977,White,females,All cancers
+0.556,1980,White,females,All cancers
+0.56,1983,White,females,All cancers
+0.586,1986,White,females,All cancers
+0.606,1989,White,females,All cancers
+0.621,1992,White,females,All cancers
+0.628,1995,White,females,All cancers
+0.647,1998,White,females,All cancers
+0.668,2001,White,females,All cancers
+0.682,2006,White,females,All cancers
+0.701,2013,White,females,All cancers
+,1963,White,males,All cancers
+,1973,White,males,All cancers
+0.427,1977,White,males,All cancers
+0.443,1980,White,males,All cancers
+0.466,1983,White,males,All cancers
+0.486,1986,White,males,All cancers
+0.528,1989,White,males,All cancers
+0.608,1992,White,males,All cancers
+0.62,1995,White,males,All cancers
+0.641,1998,White,males,All cancers
+0.675,2001,White,males,All cancers
+0.694,2006,White,males,All cancers
+0.701,2013,White,males,All cancers
+0.39,1963,White,total,All cancers
+0.43,1973,White,total,All cancers
+0.498,1977,White,total,All cancers
+0.5,1980,White,total,All cancers
+0.513,1983,White,total,All cancers
+0.536,1986,White,total,All cancers
+0.567,1989,White,total,All cancers
+0.614,1992,White,total,All cancers
+0.624,1995,White,total,All cancers
+0.644,1998,White,total,All cancers
+0.672,2001,White,total,All cancers
+0.688,2006,White,total,All cancers
+0.701,2013,White,total,All cancers
+0.683,1977,All races,females,Bladder
+0.704,1980,All races,females,Bladder
+0.727,1983,All races,females,Bladder
+0.727,1986,All races,females,Bladder
+0.719,1989,All races,females,Bladder
+0.719,1992,All races,females,Bladder
+0.75,1995,All races,females,Bladder
+0.754,1998,All races,females,Bladder
+0.773,2001,All races,females,Bladder
+0.748,2006,All races,females,Bladder
+0.744,2013,All races,females,Bladder
+0.737,1977,All races,males,Bladder
+0.751,1980,All races,males,Bladder
+0.781,1983,All races,males,Bladder
+0.781,1986,All races,males,Bladder
+0.813,1989,All races,males,Bladder
+0.817,1992,All races,males,Bladder
+0.821,1995,All races,males,Bladder
+0.804,1998,All races,males,Bladder
+0.809,2001,All races,males,Bladder
+0.819,2006,All races,males,Bladder
+0.792,2013,All races,males,Bladder
+0.723,1977,All races,total,Bladder
+0.739,1980,All races,total,Bladder
+0.767,1983,All races,total,Bladder
+0.767,1986,All races,total,Bladder
+0.79,1989,All races,total,Bladder
+0.792,1992,All races,total,Bladder
+0.802,1995,All races,total,Bladder
+0.791,1998,All races,total,Bladder
+0.8,2001,All races,total,Bladder
+0.801,2006,All races,total,Bladder
+0.78,2013,All races,total,Bladder
+0.24,1963,Black,females,Bladder
+0.27,1973,Black,females,Bladder
+0.381,1977,Black,females,Bladder
+0.401,1980,Black,females,Bladder
+0.47,1983,Black,females,Bladder
+0.528,1986,Black,females,Bladder
+0.529,1989,Black,females,Bladder
+0.585,1992,Black,females,Bladder
+0.462,1995,Black,females,Bladder
+0.56,1998,Black,females,Bladder
+0.6,2001,Black,females,Bladder
+0.558,2006,Black,females,Bladder
+0.562,2013,Black,females,Bladder
+0.24,1963,Black,males,Bladder
+0.38,1973,Black,males,Bladder
+0.565,1977,Black,males,Bladder
+0.626,1980,Black,males,Bladder
+0.649,1983,Black,males,Bladder
+0.623,1986,Black,males,Bladder
+0.675,1989,Black,males,Bladder
+0.657,1992,Black,males,Bladder
+0.678,1995,Black,males,Bladder
+0.656,1998,Black,males,Bladder
+0.718,2001,Black,males,Bladder
+0.683,2006,Black,males,Bladder
+0.7,2013,Black,males,Bladder
+0.24,1963,Black,total,Bladder
+0.36,1973,Black,total,Bladder
+0.503,1977,Black,total,Bladder
+0.545,1980,Black,total,Bladder
+0.595,1983,Black,total,Bladder
+0.594,1986,Black,total,Bladder
+0.626,1989,Black,total,Bladder
+0.631,1992,Black,total,Bladder
+0.606,1995,Black,total,Bladder
+0.627,1998,Black,total,Bladder
+0.675,2001,Black,total,Bladder
+0.638,2006,Black,total,Bladder
+0.654,2013,Black,total,Bladder
+0.53,1963,White,females,Bladder
+0.6,1973,White,females,Bladder
+0.703,1977,White,females,Bladder
+0.723,1980,White,females,Bladder
+0.74,1983,White,females,Bladder
+0.736,1986,White,females,Bladder
+0.731,1989,White,females,Bladder
+0.731,1992,White,females,Bladder
+0.769,1995,White,females,Bladder
+0.759,1998,White,females,Bladder
+0.794,2001,White,females,Bladder
+0.76,2006,White,females,Bladder
+0.754,2013,White,females,Bladder
+0.53,1963,White,males,Bladder
+0.61,1973,White,males,Bladder
+0.743,1977,White,males,Bladder
+0.754,1980,White,males,Bladder
+0.786,1983,White,males,Bladder
+0.784,1986,White,males,Bladder
+0.819,1989,White,males,Bladder
+0.826,1992,White,males,Bladder
+0.825,1995,White,males,Bladder
+0.811,1998,White,males,Bladder
+0.815,2001,White,males,Bladder
+0.826,2006,White,males,Bladder
+0.796,2013,White,males,Bladder
+0.53,1963,White,total,Bladder
+0.61,1973,White,total,Bladder
+0.733,1977,White,total,Bladder
+0.747,1980,White,total,Bladder
+0.774,1983,White,total,Bladder
+0.772,1986,White,total,Bladder
+0.798,1989,White,total,Bladder
+0.802,1992,White,total,Bladder
+0.81,1995,White,total,Bladder
+0.798,1998,White,total,Bladder
+0.81,2001,White,total,Bladder
+0.809,2006,White,total,Bladder
+0.786,2013,White,total,Bladder
+0.248,1977,All races,females,Brain and nervous system
+0.251,1980,All races,females,Brain and nervous system
+0.255,1983,All races,females,Brain and nervous system
+0.285,1986,All races,females,Brain and nervous system
+0.31,1989,All races,females,Brain and nervous system
+0.297,1992,All races,females,Brain and nervous system
+0.313,1995,All races,females,Brain and nervous system
+0.32,1998,All races,females,Brain and nervous system
+0.376,2001,All races,females,Brain and nervous system
+0.36,2006,All races,females,Brain and nervous system
+0.362,2013,All races,females,Brain and nervous system
+0.207,1977,All races,males,Brain and nervous system
+0.224,1980,All races,males,Brain and nervous system
+0.23,1983,All races,males,Brain and nervous system
+0.256,1986,All races,males,Brain and nervous system
+0.273,1989,All races,males,Brain and nervous system
+0.305,1992,All races,males,Brain and nervous system
+0.329,1995,All races,males,Brain and nervous system
+0.306,1998,All races,males,Brain and nervous system
+0.309,2001,All races,males,Brain and nervous system
+0.344,2006,All races,males,Brain and nervous system
+0.337,2013,All races,males,Brain and nervous system
+0.225,1977,All races,total,Brain and nervous system
+0.236,1980,All races,total,Brain and nervous system
+0.241,1983,All races,total,Brain and nervous system
+0.269,1986,All races,total,Brain and nervous system
+0.289,1989,All races,total,Brain and nervous system
+0.302,1992,All races,total,Brain and nervous system
+0.322,1995,All races,total,Brain and nervous system
+0.313,1998,All races,total,Brain and nervous system
+0.338,2001,All races,total,Brain and nervous system
+0.351,2006,All races,total,Brain and nervous system
+0.359,2013,All races,total,Brain and nervous system
+0.21,1963,Black,females,Brain and nervous system
+0.19,1973,Black,females,Brain and nervous system
+0.347,1977,Black,females,Brain and nervous system
+0.275,1980,Black,females,Brain and nervous system
+0.292,1983,Black,females,Brain and nervous system
+0.291,1986,Black,females,Brain and nervous system
+0.293,1989,Black,females,Brain and nervous system
+0.381,1992,Black,females,Brain and nervous system
+0.368,1995,Black,females,Brain and nervous system
+0.383,1998,Black,females,Brain and nervous system
+0.451,2001,Black,females,Brain and nervous system
+0.463,2006,Black,females,Brain and nervous system
+0.419,2013,Black,females,Brain and nervous system
+0.17,1963,Black,males,Brain and nervous system
+0.19,1973,Black,males,Brain and nervous system
+0.196,1977,Black,males,Brain and nervous system
+0.287,1980,Black,males,Brain and nervous system
+0.317,1983,Black,males,Brain and nervous system
+0.328,1986,Black,males,Brain and nervous system
+0.337,1989,Black,males,Brain and nervous system
+0.402,1992,Black,males,Brain and nervous system
+0.461,1995,Black,males,Brain and nervous system
+0.336,1998,Black,males,Brain and nervous system
+0.334,2001,Black,males,Brain and nervous system
+0.342,2006,Black,males,Brain and nervous system
+0.419,2013,Black,males,Brain and nervous system
+0.19,1963,Black,total,Brain and nervous system
+0.19,1973,Black,total,Brain and nervous system
+0.254,1977,Black,total,Brain and nervous system
+0.282,1980,Black,total,Brain and nervous system
+0.308,1983,Black,total,Brain and nervous system
+0.312,1986,Black,total,Brain and nervous system
+0.317,1989,Black,total,Brain and nervous system
+0.393,1992,Black,total,Brain and nervous system
+0.417,1995,Black,total,Brain and nervous system
+0.359,1998,Black,total,Brain and nervous system
+0.384,2001,Black,total,Brain and nervous system
+0.402,2006,Black,total,Brain and nervous system
+0.419,2013,Black,total,Brain and nervous system
+0.21,1963,White,females,Brain and nervous system
+0.22,1973,White,females,Brain and nervous system
+0.241,1977,White,females,Brain and nervous system
+0.244,1980,White,females,Brain and nervous system
+0.246,1983,White,females,Brain and nervous system
+0.278,1986,White,females,Brain and nervous system
+0.308,1989,White,females,Brain and nervous system
+0.289,1992,White,females,Brain and nervous system
+0.303,1995,White,females,Brain and nervous system
+0.31,1998,White,females,Brain and nervous system
+0.365,2001,White,females,Brain and nervous system
+0.34,2006,White,females,Brain and nervous system
+0.35,2013,White,females,Brain and nervous system
+0.16,1963,White,males,Brain and nervous system
+0.18,1973,White,males,Brain and nervous system
+0.202,1977,White,males,Brain and nervous system
+0.22,1980,White,males,Brain and nervous system
+0.224,1983,White,males,Brain and nervous system
+0.248,1986,White,males,Brain and nervous system
+0.263,1989,White,males,Brain and nervous system
+0.294,1992,White,males,Brain and nervous system
+0.313,1995,White,males,Brain and nervous system
+0.301,1998,White,males,Brain and nervous system
+0.304,2001,White,males,Brain and nervous system
+0.339,2006,White,males,Brain and nervous system
+0.322,2013,White,males,Brain and nervous system
+0.18,1963,White,total,Brain and nervous system
+0.2,1973,White,total,Brain and nervous system
+0.219,1977,White,total,Brain and nervous system
+0.23,1980,White,total,Brain and nervous system
+0.234,1983,White,total,Brain and nervous system
+0.261,1986,White,total,Brain and nervous system
+0.283,1989,White,total,Brain and nervous system
+0.292,1992,White,total,Brain and nervous system
+0.309,1995,White,total,Brain and nervous system
+0.305,1998,White,total,Brain and nervous system
+0.33,2001,White,total,Brain and nervous system
+0.339,2006,White,total,Brain and nervous system
+0.334,2013,White,total,Brain and nervous system
+0.748,1977,All races,females,Breast
+0.744,1980,All races,females,Breast
+0.761,1983,All races,females,Breast
+0.789,1986,All races,females,Breast
+0.84,1989,All races,females,Breast
+0.852,1992,All races,females,Breast
+0.864,1995,All races,females,Breast
+0.882,1998,All races,females,Breast
+0.897,2001,All races,females,Breast
+0.902,2006,All races,females,Breast
+0.911,2013,All races,females,Breast
+,1977,All races,males,Breast
+,1980,All races,males,Breast
+,1983,All races,males,Breast
+,1986,All races,males,Breast
+,1989,All races,males,Breast
+,1992,All races,males,Breast
+,1995,All races,males,Breast
+,1998,All races,males,Breast
+,2001,All races,males,Breast
+,2006,All races,males,Breast
+,2013,All races,males,Breast
+0.748,1977,All races,total,Breast
+0.744,1980,All races,total,Breast
+0.761,1983,All races,total,Breast
+0.789,1986,All races,total,Breast
+0.84,1989,All races,total,Breast
+0.852,1992,All races,total,Breast
+0.864,1995,All races,total,Breast
+0.882,1998,All races,total,Breast
+0.897,2001,All races,total,Breast
+0.902,2006,All races,total,Breast
+0.911,2013,All races,total,Breast
+0.46,1963,Black,females,Breast
+0.51,1973,Black,females,Breast
+0.622,1977,Black,females,Breast
+0.634,1980,Black,females,Breast
+0.634,1983,Black,females,Breast
+0.651,1986,Black,females,Breast
+0.711,1989,Black,females,Breast
+0.715,1992,Black,females,Breast
+0.727,1995,Black,females,Breast
+0.762,1998,Black,females,Breast
+0.789,2001,Black,females,Breast
+0.779,2006,Black,females,Breast
+0.827,2013,Black,females,Breast
+,1963,Black,males,Breast
+,1973,Black,males,Breast
+,1977,Black,males,Breast
+,1980,Black,males,Breast
+,1983,Black,males,Breast
+,1986,Black,males,Breast
+,1989,Black,males,Breast
+,1992,Black,males,Breast
+,1995,Black,males,Breast
+,1998,Black,males,Breast
+,2001,Black,males,Breast
+,2006,Black,males,Breast
+,2013,Black,males,Breast
+0.46,1963,Black,total,Breast
+0.51,1973,Black,total,Breast
+0.622,1977,Black,total,Breast
+0.634,1980,Black,total,Breast
+0.634,1983,Black,total,Breast
+0.651,1986,Black,total,Breast
+0.711,1989,Black,total,Breast
+0.715,1992,Black,total,Breast
+0.727,1995,Black,total,Breast
+0.762,1998,Black,total,Breast
+0.789,2001,Black,total,Breast
+0.779,2006,Black,total,Breast
+0.827,2013,Black,total,Breast
+0.63,1963,White,females,Breast
+0.68,1973,White,females,Breast
+0.756,1977,White,females,Breast
+0.751,1980,White,females,Breast
+0.771,1983,White,females,Breast
+0.8,1986,White,females,Breast
+0.851,1989,White,females,Breast
+0.865,1992,White,females,Breast
+0.876,1995,White,females,Breast
+0.894,1998,White,females,Breast
+0.908,2001,White,females,Breast
+0.917,2006,White,females,Breast
+0.922,2013,White,females,Breast
+,1963,White,males,Breast
+,1973,White,males,Breast
+,1977,White,males,Breast
+,1980,White,males,Breast
+,1983,White,males,Breast
+,1986,White,males,Breast
+,1989,White,males,Breast
+,1992,White,males,Breast
+,1995,White,males,Breast
+,1998,White,males,Breast
+,2001,White,males,Breast
+,2006,White,males,Breast
+,2013,White,males,Breast
+0.63,1963,White,total,Breast
+0.68,1973,White,total,Breast
+0.756,1977,White,total,Breast
+0.751,1980,White,total,Breast
+0.771,1983,White,total,Breast
+0.8,1986,White,total,Breast
+0.851,1989,White,total,Breast
+0.865,1992,White,total,Breast
+0.876,1995,White,total,Breast
+0.894,1998,White,total,Breast
+0.908,2001,White,total,Breast
+0.917,2006,White,total,Breast
+0.922,2013,White,total,Breast
+0.691,1977,All races,females,Cervix uteri
+0.674,1980,All races,females,Cervix uteri
+0.669,1983,All races,females,Cervix uteri
+0.672,1986,All races,females,Cervix uteri
+0.701,1989,All races,females,Cervix uteri
+0.696,1992,All races,females,Cervix uteri
+0.726,1995,All races,females,Cervix uteri
+0.726,1998,All races,females,Cervix uteri
+0.724,2001,All races,females,Cervix uteri
+0.695,2006,All races,females,Cervix uteri
+0.688,2013,All races,females,Cervix uteri
+,1977,All races,males,Cervix uteri
+,1980,All races,males,Cervix uteri
+,1983,All races,males,Cervix uteri
+,1986,All races,males,Cervix uteri
+,1989,All races,males,Cervix uteri
+,1992,All races,males,Cervix uteri
+,1995,All races,males,Cervix uteri
+,1998,All races,males,Cervix uteri
+,2001,All races,males,Cervix uteri
+,2006,All races,males,Cervix uteri
+,2013,All races,males,Cervix uteri
+0.691,1977,All races,total,Cervix uteri
+0.674,1980,All races,total,Cervix uteri
+0.669,1983,All races,total,Cervix uteri
+0.672,1986,All races,total,Cervix uteri
+0.701,1989,All races,total,Cervix uteri
+0.696,1992,All races,total,Cervix uteri
+0.726,1995,All races,total,Cervix uteri
+0.726,1998,All races,total,Cervix uteri
+0.724,2001,All races,total,Cervix uteri
+0.695,2006,All races,total,Cervix uteri
+0.688,2013,All races,total,Cervix uteri
+0.47,1963,Black,females,Cervix uteri
+0.61,1973,Black,females,Cervix uteri
+0.646,1977,Black,females,Cervix uteri
+0.61,1980,Black,females,Cervix uteri
+0.592,1983,Black,females,Cervix uteri
+0.579,1986,Black,females,Cervix uteri
+0.57,1989,Black,females,Cervix uteri
+0.581,1992,Black,females,Cervix uteri
+0.628,1995,Black,females,Cervix uteri
+0.648,1998,Black,females,Cervix uteri
+0.66,2001,Black,females,Cervix uteri
+0.626,2006,Black,females,Cervix uteri
+0.583,2013,Black,females,Cervix uteri
+,1963,Black,males,Cervix uteri
+,1973,Black,males,Cervix uteri
+,1977,Black,males,Cervix uteri
+,1980,Black,males,Cervix uteri
+,1983,Black,males,Cervix uteri
+,1986,Black,males,Cervix uteri
+,1989,Black,males,Cervix uteri
+,1992,Black,males,Cervix uteri
+,1995,Black,males,Cervix uteri
+,1998,Black,males,Cervix uteri
+,2001,Black,males,Cervix uteri
+,2006,Black,males,Cervix uteri
+,2013,Black,males,Cervix uteri
+0.47,1963,Black,total,Cervix uteri
+0.61,1973,Black,total,Cervix uteri
+0.646,1977,Black,total,Cervix uteri
+0.61,1980,Black,total,Cervix uteri
+0.592,1983,Black,total,Cervix uteri
+0.579,1986,Black,total,Cervix uteri
+0.57,1989,Black,total,Cervix uteri
+0.581,1992,Black,total,Cervix uteri
+0.628,1995,Black,total,Cervix uteri
+0.648,1998,Black,total,Cervix uteri
+0.66,2001,Black,total,Cervix uteri
+0.626,2006,Black,total,Cervix uteri
+0.583,2013,Black,total,Cervix uteri
+0.58,1963,White,females,Cervix uteri
+0.64,1973,White,females,Cervix uteri
+0.697,1977,White,females,Cervix uteri
+0.681,1980,White,females,Cervix uteri
+0.678,1983,White,females,Cervix uteri
+0.688,1986,White,females,Cervix uteri
+0.725,1989,White,females,Cervix uteri
+0.709,1992,White,females,Cervix uteri
+0.742,1995,White,females,Cervix uteri
+0.736,1998,White,females,Cervix uteri
+0.734,2001,White,females,Cervix uteri
+0.708,2006,White,females,Cervix uteri
+0.708,2013,White,females,Cervix uteri
+,1963,White,males,Cervix uteri
+,1973,White,males,Cervix uteri
+,1977,White,males,Cervix uteri
+,1980,White,males,Cervix uteri
+,1983,White,males,Cervix uteri
+,1986,White,males,Cervix uteri
+,1989,White,males,Cervix uteri
+,1992,White,males,Cervix uteri
+,1995,White,males,Cervix uteri
+,1998,White,males,Cervix uteri
+,2001,White,males,Cervix uteri
+,2006,White,males,Cervix uteri
+,2013,White,males,Cervix uteri
+0.58,1963,White,total,Cervix uteri
+0.64,1973,White,total,Cervix uteri
+0.697,1977,White,total,Cervix uteri
+0.681,1980,White,total,Cervix uteri
+0.678,1983,White,total,Cervix uteri
+0.688,1986,White,total,Cervix uteri
+0.725,1989,White,total,Cervix uteri
+0.709,1992,White,total,Cervix uteri
+0.742,1995,White,total,Cervix uteri
+0.736,1998,White,total,Cervix uteri
+0.734,2001,White,total,Cervix uteri
+0.708,2006,White,total,Cervix uteri
+0.708,2013,White,total,Cervix uteri
+0.506,1977,All races,females,Colon and rectum
+0.522,1980,All races,females,Colon and rectum
+0.542,1983,All races,females,Colon and rectum
+0.576,1986,All races,females,Colon and rectum
+0.593,1989,All races,females,Colon and rectum
+0.613,1992,All races,females,Colon and rectum
+0.6,1995,All races,females,Colon and rectum
+0.625,1998,All races,females,Colon and rectum
+0.641,2001,All races,females,Colon and rectum
+0.66,2006,All races,females,Colon and rectum
+0.666,2013,All races,females,Colon and rectum
+0.49,1977,All races,males,Colon and rectum
+0.502,1980,All races,males,Colon and rectum
+0.538,1983,All races,males,Colon and rectum
+0.577,1986,All races,males,Colon and rectum
+0.598,1989,All races,males,Colon and rectum
+0.61,1992,All races,males,Colon and rectum
+0.598,1995,All races,males,Colon and rectum
+0.624,1998,All races,males,Colon and rectum
+0.661,2001,All races,males,Colon and rectum
+0.659,2006,All races,males,Colon and rectum
+0.661,2013,All races,males,Colon and rectum
+0.498,1977,All races,total,Colon and rectum
+0.512,1980,All races,total,Colon and rectum
+0.54,1983,All races,total,Colon and rectum
+0.577,1986,All races,total,Colon and rectum
+0.596,1989,All races,total,Colon and rectum
+0.612,1992,All races,total,Colon and rectum
+0.599,1995,All races,total,Colon and rectum
+0.624,1998,All races,total,Colon and rectum
+0.651,2001,All races,total,Colon and rectum
+0.66,2006,All races,total,Colon and rectum
+0.663,2013,All races,total,Colon and rectum
+,1963,Black,females,Colon and rectum
+,1973,Black,females,Colon and rectum
+0.459,1977,Black,females,Colon and rectum
+0.469,1980,Black,females,Colon and rectum
+0.495,1983,Black,females,Colon and rectum
+0.49,1986,Black,females,Colon and rectum
+0.545,1989,Black,females,Colon and rectum
+0.515,1992,Black,females,Colon and rectum
+0.521,1995,Black,females,Colon and rectum
+0.529,1998,Black,females,Colon and rectum
+0.53,2001,Black,females,Colon and rectum
+0.591,2006,Black,females,Colon and rectum
+0.601,2013,Black,females,Colon and rectum
+,1963,Black,males,Colon and rectum
+,1973,Black,males,Colon and rectum
+0.433,1977,Black,males,Colon and rectum
+0.434,1980,Black,males,Colon and rectum
+0.429,1983,Black,males,Colon and rectum
+0.475,1986,Black,males,Colon and rectum
+0.499,1989,Black,males,Colon and rectum
+0.544,1992,Black,males,Colon and rectum
+0.513,1995,Black,males,Colon and rectum
+0.551,1998,Black,males,Colon and rectum
+0.554,2001,Black,males,Colon and rectum
+0.545,2006,Black,males,Colon and rectum
+0.575,2013,Black,males,Colon and rectum
+,1963,Black,total,Colon and rectum
+,1973,Black,total,Colon and rectum
+0.446,1977,Black,total,Colon and rectum
+0.454,1980,Black,total,Colon and rectum
+0.465,1983,Black,total,Colon and rectum
+0.484,1986,Black,total,Colon and rectum
+0.523,1989,Black,total,Colon and rectum
+0.529,1992,Black,total,Colon and rectum
+0.517,1995,Black,total,Colon and rectum
+0.539,1998,Black,total,Colon and rectum
+0.541,2001,Black,total,Colon and rectum
+0.57,2006,Black,total,Colon and rectum
+0.588,2013,Black,total,Colon and rectum
+,1963,White,females,Colon and rectum
+,1973,White,females,Colon and rectum
+0.507,1977,White,females,Colon and rectum
+0.525,1980,White,females,Colon and rectum
+0.543,1983,White,females,Colon and rectum
+0.583,1986,White,females,Colon and rectum
+0.595,1989,White,females,Colon and rectum
+0.621,1992,White,females,Colon and rectum
+0.606,1995,White,females,Colon and rectum
+0.632,1998,White,females,Colon and rectum
+0.657,2001,White,females,Colon and rectum
+0.666,2006,White,females,Colon and rectum
+0.673,2013,White,females,Colon and rectum
+,1963,White,males,Colon and rectum
+,1973,White,males,Colon and rectum
+0.493,1977,White,males,Colon and rectum
+0.506,1980,White,males,Colon and rectum
+0.545,1983,White,males,Colon and rectum
+0.585,1986,White,males,Colon and rectum
+0.605,1989,White,males,Colon and rectum
+0.617,1992,White,males,Colon and rectum
+0.603,1995,White,males,Colon and rectum
+0.628,1998,White,males,Colon and rectum
+0.674,2001,White,males,Colon and rectum
+0.674,2006,White,males,Colon and rectum
+0.67,2013,White,males,Colon and rectum
+,1963,White,total,Colon and rectum
+,1973,White,total,Colon and rectum
+0.501,1977,White,total,Colon and rectum
+0.516,1980,White,total,Colon and rectum
+0.544,1983,White,total,Colon and rectum
+0.584,1986,White,total,Colon and rectum
+0.6,1989,White,total,Colon and rectum
+0.619,1992,White,total,Colon and rectum
+0.605,1995,White,total,Colon and rectum
+0.63,1998,White,total,Colon and rectum
+0.665,2001,White,total,Colon and rectum
+0.67,2006,White,total,Colon and rectum
+0.671,2013,White,total,Colon and rectum
+0.075,1977,All races,females,Esophagus 
+0.056,1980,All races,females,Esophagus 
+0.082,1983,All races,females,Esophagus 
+0.121,1986,All races,females,Esophagus 
+0.095,1989,All races,females,Esophagus 
+0.134,1992,All races,females,Esophagus 
+0.117,1995,All races,females,Esophagus 
+0.144,1998,All races,females,Esophagus 
+0.195,2001,All races,females,Esophagus 
+0.189,2006,All races,females,Esophagus 
+0.223,2013,All races,females,Esophagus 
+0.04,1977,All races,males,Esophagus 
+0.048,1980,All races,males,Esophagus 
+0.06,1983,All races,males,Esophagus 
+0.084,1986,All races,males,Esophagus 
+0.094,1989,All races,males,Esophagus 
+0.117,1992,All races,males,Esophagus 
+0.122,1995,All races,males,Esophagus 
+0.13,1998,All races,males,Esophagus 
+0.176,2001,All races,males,Esophagus 
+0.187,2006,All races,males,Esophagus 
+0.206,2013,All races,males,Esophagus 
+0.05,1977,All races,total,Esophagus 
+0.05,1980,All races,total,Esophagus 
+0.066,1983,All races,total,Esophagus 
+0.095,1986,All races,total,Esophagus 
+0.094,1989,All races,total,Esophagus 
+0.122,1992,All races,total,Esophagus 
+0.121,1995,All races,total,Esophagus 
+0.134,1998,All races,total,Esophagus 
+0.181,2001,All races,total,Esophagus 
+0.187,2006,All races,total,Esophagus 
+0.21,2013,All races,total,Esophagus 
+0.02,1963,Black,females,Esophagus 
+0.03,1973,Black,females,Esophagus 
+0.077,1977,Black,females,Esophagus 
+0.068,1980,Black,females,Esophagus 
+0.065,1983,Black,females,Esophagus 
+0.099,1986,Black,females,Esophagus 
+0.102,1989,Black,females,Esophagus 
+0.084,1992,Black,females,Esophagus 
+0.069,1995,Black,females,Esophagus 
+0.136,1998,Black,females,Esophagus 
+0.163,2001,Black,females,Esophagus 
+0.166,2006,Black,females,Esophagus 
+0.138,2013,Black,females,Esophagus 
+0,1963,Black,males,Esophagus 
+0.04,1973,Black,males,Esophagus 
+0.02,1977,Black,males,Esophagus 
+0.034,1980,Black,males,Esophagus 
+0.037,1983,Black,males,Esophagus 
+0.082,1986,Black,males,Esophagus 
+0.053,1989,Black,males,Esophagus 
+0.097,1992,Black,males,Esophagus 
+0.078,1995,Black,males,Esophagus 
+0.085,1998,Black,males,Esophagus 
+0.106,2001,Black,males,Esophagus 
+0.113,2006,Black,males,Esophagus 
+0.103,2013,Black,males,Esophagus 
+0.01,1963,Black,total,Esophagus 
+0.04,1973,Black,total,Esophagus 
+0.035,1977,Black,total,Esophagus 
+0.043,1980,Black,total,Esophagus 
+0.043,1983,Black,total,Esophagus 
+0.087,1986,Black,total,Esophagus 
+0.066,1989,Black,total,Esophagus 
+0.094,1992,Black,total,Esophagus 
+0.076,1995,Black,total,Esophagus 
+0.102,1998,Black,total,Esophagus 
+0.125,2001,Black,total,Esophagus 
+0.132,2006,Black,total,Esophagus 
+0.117,2013,Black,total,Esophagus 
+0.06,1963,White,females,Esophagus 
+0.04,1973,White,females,Esophagus 
+0.07,1977,White,females,Esophagus 
+0.052,1980,White,females,Esophagus 
+0.09,1983,White,females,Esophagus 
+0.13,1986,White,females,Esophagus 
+0.092,1989,White,females,Esophagus 
+0.148,1992,White,females,Esophagus 
+0.127,1995,White,females,Esophagus 
+0.147,1998,White,females,Esophagus 
+0.197,2001,White,females,Esophagus 
+0.194,2006,White,females,Esophagus 
+0.234,2013,White,females,Esophagus 
+0.04,1963,White,males,Esophagus 
+0.04,1973,White,males,Esophagus 
+0.048,1977,White,males,Esophagus 
+0.053,1980,White,males,Esophagus 
+0.065,1983,White,males,Esophagus 
+0.09,1986,White,males,Esophagus 
+0.11,1989,White,males,Esophagus 
+0.122,1992,White,males,Esophagus 
+0.136,1995,White,males,Esophagus 
+0.139,1998,White,males,Esophagus 
+0.186,2001,White,males,Esophagus 
+0.2,2006,White,males,Esophagus 
+0.22,2013,White,males,Esophagus 
+0.04,1963,White,total,Esophagus 
+0.04,1973,White,total,Esophagus 
+0.055,1977,White,total,Esophagus 
+0.053,1980,White,total,Esophagus 
+0.073,1983,White,total,Esophagus 
+0.102,1986,White,total,Esophagus 
+0.105,1989,White,total,Esophagus 
+0.129,1992,White,total,Esophagus 
+0.134,1995,White,total,Esophagus 
+0.141,1998,White,total,Esophagus 
+0.189,2001,White,total,Esophagus 
+0.199,2006,White,total,Esophagus 
+0.223,2013,White,total,Esophagus 
+0.356,1977,All races,females,Leukemia
+0.373,1980,All races,females,Leukemia
+0.378,1983,All races,females,Leukemia
+0.411,1986,All races,females,Leukemia
+0.413,1989,All races,females,Leukemia
+0.46,1992,All races,females,Leukemia
+0.464,1995,All races,females,Leukemia
+0.48,1998,All races,females,Leukemia
+0.495,2001,All races,females,Leukemia
+0.589,2006,All races,females,Leukemia
+0.617,2013,All races,females,Leukemia
+0.33,1977,All races,males,Leukemia
+0.35,1980,All races,males,Leukemia
+0.369,1983,All races,males,Leukemia
+0.401,1986,All races,males,Leukemia
+0.44,1989,All races,males,Leukemia
+0.446,1992,All races,males,Leukemia
+0.484,1995,All races,males,Leukemia
+0.485,1998,All races,males,Leukemia
+0.519,2001,All races,males,Leukemia
+0.599,2006,All races,males,Leukemia
+0.652,2013,All races,males,Leukemia
+0.341,1977,All races,total,Leukemia
+0.36,1980,All races,total,Leukemia
+0.373,1983,All races,total,Leukemia
+0.405,1986,All races,total,Leukemia
+0.429,1989,All races,total,Leukemia
+0.452,1992,All races,total,Leukemia
+0.475,1995,All races,total,Leukemia
+0.483,1998,All races,total,Leukemia
+0.509,2001,All races,total,Leukemia
+0.595,2006,All races,total,Leukemia
+0.637,2013,All races,total,Leukemia
+,1963,Black,females,Leukemia
+,1973,Black,females,Leukemia
+0.367,1977,Black,females,Leukemia
+0.293,1980,Black,females,Leukemia
+0.343,1983,Black,females,Leukemia
+0.341,1986,Black,females,Leukemia
+0.378,1989,Black,females,Leukemia
+0.413,1992,Black,females,Leukemia
+0.409,1995,Black,females,Leukemia
+0.38,1998,Black,females,Leukemia
+0.419,2001,Black,females,Leukemia
+0.508,2006,Black,females,Leukemia
+0.561,2013,Black,females,Leukemia
+,1963,Black,males,Leukemia
+,1973,Black,males,Leukemia
+0.304,1977,Black,males,Leukemia
+0.273,1980,Black,males,Leukemia
+0.334,1983,Black,males,Leukemia
+0.315,1986,Black,males,Leukemia
+0.327,1989,Black,males,Leukemia
+0.305,1992,Black,males,Leukemia
+0.416,1995,Black,males,Leukemia
+0.39,1998,Black,males,Leukemia
+0.445,2001,Black,males,Leukemia
+0.553,2006,Black,males,Leukemia
+0.59,2013,Black,males,Leukemia
+,1963,Black,total,Leukemia
+,1973,Black,total,Leukemia
+0.334,1977,Black,total,Leukemia
+0.282,1980,Black,total,Leukemia
+0.339,1983,Black,total,Leukemia
+0.327,1986,Black,total,Leukemia
+0.35,1989,Black,total,Leukemia
+0.357,1992,Black,total,Leukemia
+0.413,1995,Black,total,Leukemia
+0.386,1998,Black,total,Leukemia
+0.433,2001,Black,total,Leukemia
+0.533,2006,Black,total,Leukemia
+0.578,2013,Black,total,Leukemia
+,1963,White,females,Leukemia
+,1973,White,females,Leukemia
+0.358,1977,White,females,Leukemia
+0.38,1980,White,females,Leukemia
+0.385,1983,White,females,Leukemia
+0.42,1986,White,females,Leukemia
+0.417,1989,White,females,Leukemia
+0.468,1992,White,females,Leukemia
+0.475,1995,White,females,Leukemia
+0.497,1998,White,females,Leukemia
+0.506,2001,White,females,Leukemia
+0.598,2006,White,females,Leukemia
+0.63,2013,White,females,Leukemia
+,1963,White,males,Leukemia
+,1973,White,males,Leukemia
+0.336,1977,White,males,Leukemia
+0.358,1980,White,males,Leukemia
+0.378,1983,White,males,Leukemia
+0.413,1986,White,males,Leukemia
+0.455,1989,White,males,Leukemia
+0.462,1992,White,males,Leukemia
+0.494,1995,White,males,Leukemia
+0.496,1998,White,males,Leukemia
+0.529,2001,White,males,Leukemia
+0.608,2006,White,males,Leukemia
+0.66,2013,White,males,Leukemia
+0.14,1963,White,total,Leukemia
+0.22,1973,White,total,Leukemia
+0.345,1977,White,total,Leukemia
+0.367,1980,White,total,Leukemia
+0.381,1983,White,total,Leukemia
+0.416,1986,White,total,Leukemia
+0.439,1989,White,total,Leukemia
+0.464,1992,White,total,Leukemia
+0.486,1995,White,total,Leukemia
+0.496,1998,White,total,Leukemia
+0.52,2001,White,total,Leukemia
+0.604,2006,White,total,Leukemia
+0.648,2013,White,total,Leukemia
+0.063,1977,All races,females,Liver
+0.054,1980,All races,females,Liver
+0.052,1983,All races,females,Liver
+0.095,1986,All races,females,Liver
+0.08,1989,All races,females,Liver
+0.07,1992,All races,females,Liver
+0.061,1995,All races,females,Liver
+0.091,1998,All races,females,Liver
+0.122,2001,All races,females,Liver
+0.156,2006,All races,females,Liver
+0.178,2013,All races,females,Liver
+0.018,1977,All races,males,Liver
+0.022,1980,All races,males,Liver
+0.029,1983,All races,males,Liver
+0.037,1986,All races,males,Liver
+0.032,1989,All races,males,Liver
+0.05,1992,All races,males,Liver
+0.053,1995,All races,males,Liver
+0.083,1998,All races,males,Liver
+0.109,2001,All races,males,Liver
+0.158,2006,All races,males,Liver
+0.187,2013,All races,males,Liver
+0.034,1977,All races,total,Liver
+0.033,1980,All races,total,Liver
+0.037,1983,All races,total,Liver
+0.057,1986,All races,total,Liver
+0.049,1989,All races,total,Liver
+0.056,1992,All races,total,Liver
+0.056,1995,All races,total,Liver
+0.086,1998,All races,total,Liver
+0.113,2001,All races,total,Liver
+0.157,2006,All races,total,Liver
+0.185,2013,All races,total,Liver
+,1963,Black,females,Liver
+,1973,Black,females,Liver
+0.056,1977,Black,females,Liver
+0.05,1980,Black,females,Liver
+0.047,1983,Black,females,Liver
+0.091,1986,Black,females,Liver
+0.049,1989,Black,females,Liver
+0.036,1992,Black,females,Liver
+0.073,1995,Black,females,Liver
+0.02,1998,Black,females,Liver
+0.095,2001,Black,females,Liver
+0.16,2006,Black,females,Liver
+0.13,2013,Black,females,Liver
+,1963,Black,males,Liver
+,1973,Black,males,Liver
+0,1977,Black,males,Liver
+0.03,1980,Black,males,Liver
+0.021,1983,Black,males,Liver
+0.021,1986,Black,males,Liver
+0.016,1989,Black,males,Liver
+0.02,1992,Black,males,Liver
+0.028,1995,Black,males,Liver
+0.059,1998,Black,males,Liver
+0.068,2001,Black,males,Liver
+0.085,2006,Black,males,Liver
+0.143,2013,Black,males,Liver
+,1963,Black,total,Liver
+,1973,Black,total,Liver
+0.018,1977,Black,total,Liver
+0.036,1980,Black,total,Liver
+0.028,1983,Black,total,Liver
+0.044,1986,Black,total,Liver
+0.027,1989,Black,total,Liver
+0.026,1992,Black,total,Liver
+0.04,1995,Black,total,Liver
+0.046,1998,Black,total,Liver
+0.076,2001,Black,total,Liver
+0.105,2006,Black,total,Liver
+0.14,2013,Black,total,Liver
+,1963,White,females,Liver
+,1973,White,females,Liver
+0.058,1977,White,females,Liver
+0.048,1980,White,females,Liver
+0.054,1983,White,females,Liver
+0.091,1986,White,females,Liver
+0.094,1989,White,females,Liver
+0.083,1992,White,females,Liver
+0.057,1995,White,females,Liver
+0.102,1998,White,females,Liver
+0.117,2001,White,females,Liver
+0.139,2006,White,females,Liver
+0.168,2013,White,females,Liver
+,1963,White,males,Liver
+,1973,White,males,Liver
+0.019,1977,White,males,Liver
+0.022,1980,White,males,Liver
+0.03,1983,White,males,Liver
+0.037,1986,White,males,Liver
+0.034,1989,White,males,Liver
+0.051,1992,White,males,Liver
+0.049,1995,White,males,Liver
+0.076,1998,White,males,Liver
+0.097,2001,White,males,Liver
+0.156,2006,White,males,Liver
+0.18,2013,White,males,Liver
+,1963,White,total,Liver
+,1973,White,total,Liver
+0.034,1977,White,total,Liver
+0.033,1980,White,total,Liver
+0.039,1983,White,total,Liver
+0.057,1986,White,total,Liver
+0.057,1989,White,total,Liver
+0.062,1992,White,total,Liver
+0.052,1995,White,total,Liver
+0.084,1998,White,total,Liver
+0.103,2001,White,total,Liver
+0.152,2006,White,total,Liver
+0.177,2013,White,total,Liver
+0.153,1977,All races,females,Lung and bronchus
+0.163,1980,All races,females,Lung and bronchus
+0.164,1983,All races,females,Lung and bronchus
+0.16,1986,All races,females,Lung and bronchus
+0.15,1989,All races,females,Lung and bronchus
+0.159,1992,All races,females,Lung and bronchus
+0.169,1995,All races,females,Lung and bronchus
+0.168,1998,All races,females,Lung and bronchus
+0.179,2001,All races,females,Lung and bronchus
+0.192,2006,All races,females,Lung and bronchus
+0.226,2013,All races,females,Lung and bronchus
+0.111,1977,All races,males,Lung and bronchus
+0.113,1980,All races,males,Lung and bronchus
+0.115,1983,All races,males,Lung and bronchus
+0.112,1986,All races,males,Lung and bronchus
+0.119,1989,All races,males,Lung and bronchus
+0.121,1992,All races,males,Lung and bronchus
+0.125,1995,All races,males,Lung and bronchus
+0.129,1998,All races,males,Lung and bronchus
+0.131,2001,All races,males,Lung and bronchus
+0.145,2006,All races,males,Lung and bronchus
+0.166,2013,All races,males,Lung and bronchus
+0.122,1977,All races,total,Lung and bronchus
+0.128,1980,All races,total,Lung and bronchus
+0.131,1983,All races,total,Lung and bronchus
+0.128,1986,All races,total,Lung and bronchus
+0.13,1989,All races,total,Lung and bronchus
+0.136,1992,All races,total,Lung and bronchus
+0.143,1995,All races,total,Lung and bronchus
+0.146,1998,All races,total,Lung and bronchus
+0.153,2001,All races,total,Lung and bronchus
+0.167,2006,All races,total,Lung and bronchus
+0.195,2013,All races,total,Lung and bronchus
+0.06,1963,Black,females,Lung and bronchus
+0.1,1973,Black,females,Lung and bronchus
+0.138,1977,Black,females,Lung and bronchus
+0.178,1980,Black,females,Lung and bronchus
+0.149,1983,Black,females,Lung and bronchus
+0.128,1986,Black,females,Lung and bronchus
+0.111,1989,Black,females,Lung and bronchus
+0.127,1992,Black,females,Lung and bronchus
+0.157,1995,Black,females,Lung and bronchus
+0.15,1998,Black,females,Lung and bronchus
+0.152,2001,Black,females,Lung and bronchus
+0.144,2006,Black,females,Lung and bronchus
+0.207,2013,Black,females,Lung and bronchus
+0.05,1963,Black,males,Lung and bronchus
+0.06,1973,Black,males,Lung and bronchus
+0.105,1977,Black,males,Lung and bronchus
+0.097,1980,Black,males,Lung and bronchus
+0.101,1983,Black,males,Lung and bronchus
+0.103,1986,Black,males,Lung and bronchus
+0.108,1989,Black,males,Lung and bronchus
+0.093,1992,Black,males,Lung and bronchus
+0.112,1995,Black,males,Lung and bronchus
+0.107,1998,Black,males,Lung and bronchus
+0.108,2001,Black,males,Lung and bronchus
+0.127,2006,Black,males,Lung and bronchus
+0.142,2013,Black,males,Lung and bronchus
+0.05,1963,Black,total,Lung and bronchus
+0.07,1973,Black,total,Lung and bronchus
+0.112,1977,Black,total,Lung and bronchus
+0.117,1980,Black,total,Lung and bronchus
+0.113,1983,Black,total,Lung and bronchus
+0.111,1986,Black,total,Lung and bronchus
+0.109,1989,Black,total,Lung and bronchus
+0.105,1992,Black,total,Lung and bronchus
+0.128,1995,Black,total,Lung and bronchus
+0.123,1998,Black,total,Lung and bronchus
+0.126,2001,Black,total,Lung and bronchus
+0.134,2006,Black,total,Lung and bronchus
+0.173,2013,Black,total,Lung and bronchus
+0.11,1963,White,females,Lung and bronchus
+0.14,1973,White,females,Lung and bronchus
+0.154,1977,White,females,Lung and bronchus
+0.162,1980,White,females,Lung and bronchus
+0.166,1983,White,females,Lung and bronchus
+0.163,1986,White,females,Lung and bronchus
+0.153,1989,White,females,Lung and bronchus
+0.162,1992,White,females,Lung and bronchus
+0.171,1995,White,females,Lung and bronchus
+0.17,1998,White,females,Lung and bronchus
+0.18,2001,White,females,Lung and bronchus
+0.197,2006,White,females,Lung and bronchus
+0.226,2013,White,females,Lung and bronchus
+0.07,1963,White,males,Lung and bronchus
+0.09,1973,White,males,Lung and bronchus
+0.111,1977,White,males,Lung and bronchus
+0.115,1980,White,males,Lung and bronchus
+0.117,1983,White,males,Lung and bronchus
+0.112,1986,White,males,Lung and bronchus
+0.12,1989,White,males,Lung and bronchus
+0.125,1992,White,males,Lung and bronchus
+0.126,1995,White,males,Lung and bronchus
+0.131,1998,White,males,Lung and bronchus
+0.133,2001,White,males,Lung and bronchus
+0.148,2006,White,males,Lung and bronchus
+0.169,2013,White,males,Lung and bronchus
+0.08,1963,White,total,Lung and bronchus
+0.1,1973,White,total,Lung and bronchus
+0.123,1977,White,total,Lung and bronchus
+0.129,1980,White,total,Lung and bronchus
+0.133,1983,White,total,Lung and bronchus
+0.13,1986,White,total,Lung and bronchus
+0.133,1989,White,total,Lung and bronchus
+0.14,1992,White,total,Lung and bronchus
+0.145,1995,White,total,Lung and bronchus
+0.148,1998,White,total,Lung and bronchus
+0.155,2001,White,total,Lung and bronchus
+0.171,2006,White,total,Lung and bronchus
+0.196,2013,White,total,Lung and bronchus
+0.253,1977,All races,females,Myeloma
+0.275,1980,All races,females,Myeloma
+0.294,1983,All races,females,Myeloma
+0.269,1986,All races,females,Myeloma
+0.255,1989,All races,females,Myeloma
+0.279,1992,All races,females,Myeloma
+0.31,1995,All races,females,Myeloma
+0.303,1998,All races,females,Myeloma
+0.319,2001,All races,females,Myeloma
+0.429,2006,All races,females,Myeloma
+0.518,2013,All races,females,Myeloma
+0.239,1977,All races,males,Myeloma
+0.244,1980,All races,males,Myeloma
+0.257,1983,All races,males,Myeloma
+0.277,1986,All races,males,Myeloma
+0.289,1989,All races,males,Myeloma
+0.305,1992,All races,males,Myeloma
+0.322,1995,All races,males,Myeloma
+0.245,1998,All races,males,Myeloma
+0.368,2001,All races,males,Myeloma
+0.449,2006,All races,males,Myeloma
+0.504,2013,All races,males,Myeloma
+0.246,1977,All races,total,Myeloma
+0.259,1980,All races,total,Myeloma
+0.275,1983,All races,total,Myeloma
+0.273,1986,All races,total,Myeloma
+0.272,1989,All races,total,Myeloma
+0.293,1992,All races,total,Myeloma
+0.316,1995,All races,total,Myeloma
+0.325,1998,All races,total,Myeloma
+0.345,2001,All races,total,Myeloma
+0.44,2006,All races,total,Myeloma
+0.51,2013,All races,total,Myeloma
+,1963,Black,females,Myeloma
+,1973,Black,females,Myeloma
+0.295,1977,Black,females,Myeloma
+0.375,1980,Black,females,Myeloma
+0.279,1983,Black,females,Myeloma
+0.303,1986,Black,females,Myeloma
+0.303,1989,Black,females,Myeloma
+0.306,1992,Black,females,Myeloma
+0.357,1995,Black,females,Myeloma
+0.304,1998,Black,females,Myeloma
+0.32,2001,Black,females,Myeloma
+0.463,2006,Black,females,Myeloma
+0.54,2013,Black,females,Myeloma
+,1963,Black,males,Myeloma
+,1973,Black,males,Myeloma
+0.289,1977,Black,males,Myeloma
+0.274,1980,Black,males,Myeloma
+0.296,1983,Black,males,Myeloma
+0.333,1986,Black,males,Myeloma
+0.297,1989,Black,males,Myeloma
+0.38,1992,Black,males,Myeloma
+0.349,1995,Black,males,Myeloma
+0.328,1998,Black,males,Myeloma
+0.367,2001,Black,males,Myeloma
+0.422,2006,Black,males,Myeloma
+0.505,2013,Black,males,Myeloma
+,1963,Black,total,Myeloma
+,1973,Black,total,Myeloma
+0.293,1977,Black,total,Myeloma
+0.325,1980,Black,total,Myeloma
+0.289,1983,Black,total,Myeloma
+0.318,1986,Black,total,Myeloma
+0.3,1989,Black,total,Myeloma
+0.342,1992,Black,total,Myeloma
+0.354,1995,Black,total,Myeloma
+0.314,1998,Black,total,Myeloma
+0.341,2001,Black,total,Myeloma
+0.444,2006,Black,total,Myeloma
+0.523,2013,Black,total,Myeloma
+0.1,1963,White,females,Myeloma
+0.17,1973,White,females,Myeloma
+0.247,1977,White,females,Myeloma
+0.255,1980,White,females,Myeloma
+0.289,1983,White,females,Myeloma
+0.262,1986,White,females,Myeloma
+0.245,1989,White,females,Myeloma
+0.269,1992,White,females,Myeloma
+0.295,1995,White,females,Myeloma
+0.299,1998,White,females,Myeloma
+0.315,2001,White,females,Myeloma
+0.42,2006,White,females,Myeloma
+0.511,2013,White,females,Myeloma
+0.13,1963,White,males,Myeloma
+0.2,1973,White,males,Myeloma
+0.236,1977,White,males,Myeloma
+0.241,1980,White,males,Myeloma
+0.254,1983,White,males,Myeloma
+0.258,1986,White,males,Myeloma
+0.291,1989,White,males,Myeloma
+0.296,1992,White,males,Myeloma
+0.313,1995,White,males,Myeloma
+0.343,1998,White,males,Myeloma
+0.368,2001,White,males,Myeloma
+0.462,2006,White,males,Myeloma
+0.501,2013,White,males,Myeloma
+0.12,1963,White,total,Myeloma
+0.19,1973,White,total,Myeloma
+0.241,1977,White,total,Myeloma
+0.248,1980,White,total,Myeloma
+0.272,1983,White,total,Myeloma
+0.26,1986,White,total,Myeloma
+0.269,1989,White,total,Myeloma
+0.284,1992,White,total,Myeloma
+0.305,1995,White,total,Myeloma
+0.322,1998,White,total,Myeloma
+0.345,2001,White,total,Myeloma
+0.443,2006,White,total,Myeloma
+0.506,2013,White,total,Myeloma
+0.36,1977,All races,females,Ovary
+0.377,1980,All races,females,Ovary
+0.389,1983,All races,females,Ovary
+0.384,1986,All races,females,Ovary
+0.382,1989,All races,females,Ovary
+0.405,1992,All races,females,Ovary
+0.415,1995,All races,females,Ovary
+0.439,1998,All races,females,Ovary
+0.439,2001,All races,females,Ovary
+0.443,2006,All races,females,Ovary
+0.467,2013,All races,females,Ovary
+,1977,All races,males,Ovary
+,1980,All races,males,Ovary
+,1983,All races,males,Ovary
+,1986,All races,males,Ovary
+,1989,All races,males,Ovary
+,1992,All races,males,Ovary
+,1995,All races,males,Ovary
+,1998,All races,males,Ovary
+,2001,All races,males,Ovary
+,2006,All races,males,Ovary
+,2013,All races,males,Ovary
+0.36,1977,All races,total,Ovary
+0.377,1980,All races,total,Ovary
+0.389,1983,All races,total,Ovary
+0.384,1986,All races,total,Ovary
+0.382,1989,All races,total,Ovary
+0.405,1992,All races,total,Ovary
+0.415,1995,All races,total,Ovary
+0.439,1998,All races,total,Ovary
+0.439,2001,All races,total,Ovary
+0.443,2006,All races,total,Ovary
+0.467,2013,All races,total,Ovary
+0.32,1963,Black,females,Ovary
+0.32,1973,Black,females,Ovary
+0.413,1977,Black,females,Ovary
+0.388,1980,Black,females,Ovary
+0.375,1983,Black,females,Ovary
+0.394,1986,Black,females,Ovary
+0.339,1989,Black,females,Ovary
+0.355,1992,Black,females,Ovary
+0.415,1995,Black,females,Ovary
+0.392,1998,Black,females,Ovary
+0.356,2001,Black,females,Ovary
+0.373,2006,Black,females,Ovary
+0.385,2013,Black,females,Ovary
+,1963,Black,males,Ovary
+,1973,Black,males,Ovary
+,1977,Black,males,Ovary
+,1980,Black,males,Ovary
+,1983,Black,males,Ovary
+,1986,Black,males,Ovary
+,1989,Black,males,Ovary
+,1992,Black,males,Ovary
+,1995,Black,males,Ovary
+,1998,Black,males,Ovary
+,2001,Black,males,Ovary
+,2006,Black,males,Ovary
+,2013,Black,males,Ovary
+0.32,1963,Black,total,Ovary
+0.32,1973,Black,total,Ovary
+0.413,1977,Black,total,Ovary
+0.388,1980,Black,total,Ovary
+0.375,1983,Black,total,Ovary
+0.394,1986,Black,total,Ovary
+0.339,1989,Black,total,Ovary
+0.355,1992,Black,total,Ovary
+0.415,1995,Black,total,Ovary
+0.392,1998,Black,total,Ovary
+0.356,2001,Black,total,Ovary
+0.373,2006,Black,total,Ovary
+0.385,2013,Black,total,Ovary
+0.32,1963,White,females,Ovary
+0.36,1973,White,females,Ovary
+0.353,1977,White,females,Ovary
+0.369,1980,White,females,Ovary
+0.385,1983,White,females,Ovary
+0.375,1986,White,females,Ovary
+0.382,1989,White,females,Ovary
+0.404,1992,White,females,Ovary
+0.406,1995,White,females,Ovary
+0.433,1998,White,females,Ovary
+0.436,2001,White,females,Ovary
+0.439,2006,White,females,Ovary
+0.462,2013,White,females,Ovary
+,1963,White,males,Ovary
+,1973,White,males,Ovary
+,1977,White,males,Ovary
+,1980,White,males,Ovary
+,1983,White,males,Ovary
+,1986,White,males,Ovary
+,1989,White,males,Ovary
+,1992,White,males,Ovary
+,1995,White,males,Ovary
+,1998,White,males,Ovary
+,2001,White,males,Ovary
+,2006,White,males,Ovary
+,2013,White,males,Ovary
+0.32,1963,White,total,Ovary
+0.36,1973,White,total,Ovary
+0.353,1977,White,total,Ovary
+0.369,1980,White,total,Ovary
+0.385,1983,White,total,Ovary
+0.375,1986,White,total,Ovary
+0.382,1989,White,total,Ovary
+0.404,1992,White,total,Ovary
+0.406,1995,White,total,Ovary
+0.433,1998,White,total,Ovary
+0.436,2001,White,total,Ovary
+0.439,2006,White,total,Ovary
+0.462,2013,White,total,Ovary
+0.022,1977,All races,females,Pancreas
+0.03,1980,All races,females,Pancreas
+0.031,1983,All races,females,Pancreas
+0.035,1986,All races,females,Pancreas
+0.037,1989,All races,females,Pancreas
+0.045,1992,All races,females,Pancreas
+0.043,1995,All races,females,Pancreas
+0.041,1998,All races,females,Pancreas
+0.05,2001,All races,females,Pancreas
+0.065,2006,All races,females,Pancreas
+0.083,2013,All races,females,Pancreas
+0.026,1977,All races,males,Pancreas
+0.027,1980,All races,males,Pancreas
+0.024,1983,All races,males,Pancreas
+0.023,1986,All races,males,Pancreas
+0.033,1989,All races,males,Pancreas
+0.041,1992,All races,males,Pancreas
+0.037,1995,All races,males,Pancreas
+0.046,1998,All races,males,Pancreas
+0.052,2001,All races,males,Pancreas
+0.057,2006,All races,males,Pancreas
+0.092,2013,All races,males,Pancreas
+0.025,1977,All races,total,Pancreas
+0.029,1980,All races,total,Pancreas
+0.027,1983,All races,total,Pancreas
+0.029,1986,All races,total,Pancreas
+0.035,1989,All races,total,Pancreas
+0.043,1992,All races,total,Pancreas
+0.04,1995,All races,total,Pancreas
+0.044,1998,All races,total,Pancreas
+0.051,2001,All races,total,Pancreas
+0.061,2006,All races,total,Pancreas
+0.087,2013,All races,total,Pancreas
+0.03,1963,Black,females,Pancreas
+0.03,1973,Black,females,Pancreas
+0.019,1977,Black,females,Pancreas
+0.07,1980,Black,females,Pancreas
+0.032,1983,Black,females,Pancreas
+0.053,1986,Black,females,Pancreas
+0.058,1989,Black,females,Pancreas
+0.04,1992,Black,females,Pancreas
+0.037,1995,Black,females,Pancreas
+0.035,1998,Black,females,Pancreas
+0.074,2001,Black,females,Pancreas
+0.055,2006,Black,females,Pancreas
+0.077,2013,Black,females,Pancreas
+0,1963,Black,males,Pancreas
+0,1973,Black,males,Pancreas
+0.025,1977,Black,males,Pancreas
+0.045,1980,Black,males,Pancreas
+0.037,1983,Black,males,Pancreas
+0.039,1986,Black,males,Pancreas
+0.051,1989,Black,males,Pancreas
+0.032,1992,Black,males,Pancreas
+0.036,1995,Black,males,Pancreas
+0.031,1998,Black,males,Pancreas
+0.037,2001,Black,males,Pancreas
+0.043,2006,Black,males,Pancreas
+0.074,2013,Black,males,Pancreas
+0.01,1963,Black,total,Pancreas
+0.02,1973,Black,total,Pancreas
+0.023,1977,Black,total,Pancreas
+0.057,1980,Black,total,Pancreas
+0.036,1983,Black,total,Pancreas
+0.047,1986,Black,total,Pancreas
+0.055,1989,Black,total,Pancreas
+0.036,1992,Black,total,Pancreas
+0.037,1995,Black,total,Pancreas
+0.034,1998,Black,total,Pancreas
+0.056,2001,Black,total,Pancreas
+0.05,2006,Black,total,Pancreas
+0.075,2013,Black,total,Pancreas
+0.02,1963,White,females,Pancreas
+0.02,1973,White,females,Pancreas
+0.023,1977,White,females,Pancreas
+0.025,1980,White,females,Pancreas
+0.03,1983,White,females,Pancreas
+0.031,1986,White,females,Pancreas
+0.033,1989,White,females,Pancreas
+0.045,1992,White,females,Pancreas
+0.042,1995,White,females,Pancreas
+0.036,1998,White,females,Pancreas
+0.044,2001,White,females,Pancreas
+0.066,2006,White,females,Pancreas
+0.083,2013,White,females,Pancreas
+0.01,1963,White,males,Pancreas
+0.02,1973,White,males,Pancreas
+0.027,1977,White,males,Pancreas
+0.026,1980,White,males,Pancreas
+0.021,1983,White,males,Pancreas
+0.021,1986,White,males,Pancreas
+0.031,1989,White,males,Pancreas
+0.042,1992,White,males,Pancreas
+0.036,1995,White,males,Pancreas
+0.047,1998,White,males,Pancreas
+0.055,2001,White,males,Pancreas
+0.059,2006,White,males,Pancreas
+0.093,2013,White,males,Pancreas
+0.01,1963,White,total,Pancreas
+0.02,1973,White,total,Pancreas
+0.025,1977,White,total,Pancreas
+0.025,1980,White,total,Pancreas
+0.025,1983,White,total,Pancreas
+0.026,1986,White,total,Pancreas
+0.032,1989,White,total,Pancreas
+0.044,1992,White,total,Pancreas
+0.039,1995,White,total,Pancreas
+0.041,1998,White,total,Pancreas
+0.05,2001,White,total,Pancreas
+0.062,2006,White,total,Pancreas
+0.089,2013,White,total,Pancreas
+,1977,All races,females,Prostate
+,1980,All races,females,Prostate
+,1983,All races,females,Prostate
+,1986,All races,females,Prostate
+,1989,All races,females,Prostate
+,1992,All races,females,Prostate
+,1995,All races,females,Prostate
+,1998,All races,females,Prostate
+,2001,All races,females,Prostate
+,2006,All races,females,Prostate
+,2013,All races,females,Prostate
+0.678,1977,All races,males,Prostate
+0.701,1980,All races,males,Prostate
+0.72,1983,All races,males,Prostate
+0.752,1986,All races,males,Prostate
+0.828,1989,All races,males,Prostate
+0.929,1992,All races,males,Prostate
+0.952,1995,All races,males,Prostate
+0.974,1998,All races,males,Prostate
+0.993,2001,All races,males,Prostate
+0.996,2006,All races,males,Prostate
+0.992,2013,All races,males,Prostate
+0.678,1977,All races,total,Prostate
+0.701,1980,All races,total,Prostate
+0.72,1983,All races,total,Prostate
+0.752,1986,All races,total,Prostate
+0.828,1989,All races,total,Prostate
+0.929,1992,All races,total,Prostate
+0.952,1995,All races,total,Prostate
+0.974,1998,All races,total,Prostate
+0.993,2001,All races,total,Prostate
+0.996,2006,All races,total,Prostate
+0.992,2013,All races,total,Prostate
+,1963,Black,females,Prostate
+,1973,Black,females,Prostate
+,1977,Black,females,Prostate
+,1980,Black,females,Prostate
+,1983,Black,females,Prostate
+,1986,Black,females,Prostate
+,1989,Black,females,Prostate
+,1992,Black,females,Prostate
+,1995,Black,females,Prostate
+,1998,Black,females,Prostate
+,2001,Black,females,Prostate
+,2006,Black,females,Prostate
+,2013,Black,females,Prostate
+0.35,1963,Black,males,Prostate
+0.55,1973,Black,males,Prostate
+0.607,1977,Black,males,Prostate
+0.621,1980,Black,males,Prostate
+0.628,1983,Black,males,Prostate
+0.657,1986,Black,males,Prostate
+0.711,1989,Black,males,Prostate
+0.844,1992,Black,males,Prostate
+0.917,1995,Black,males,Prostate
+0.949,1998,Black,males,Prostate
+0.973,2001,Black,males,Prostate
+0.978,2006,Black,males,Prostate
+0.974,2013,Black,males,Prostate
+0.35,1963,Black,total,Prostate
+0.55,1973,Black,total,Prostate
+0.607,1977,Black,total,Prostate
+0.621,1980,Black,total,Prostate
+0.628,1983,Black,total,Prostate
+0.657,1986,Black,total,Prostate
+0.711,1989,Black,total,Prostate
+0.844,1992,Black,total,Prostate
+0.917,1995,Black,total,Prostate
+0.949,1998,Black,total,Prostate
+0.973,2001,Black,total,Prostate
+0.978,2006,Black,total,Prostate
+0.974,2013,Black,total,Prostate
+,1963,White,females,Prostate
+,1973,White,females,Prostate
+,1977,White,females,Prostate
+,1980,White,females,Prostate
+,1983,White,females,Prostate
+,1986,White,females,Prostate
+,1989,White,females,Prostate
+,1992,White,females,Prostate
+,1995,White,females,Prostate
+,1998,White,females,Prostate
+,2001,White,females,Prostate
+,2006,White,females,Prostate
+,2013,White,females,Prostate
+0.5,1963,White,males,Prostate
+0.63,1973,White,males,Prostate
+0.685,1977,White,males,Prostate
+0.712,1980,White,males,Prostate
+0.731,1983,White,males,Prostate
+0.764,1986,White,males,Prostate
+0.844,1989,White,males,Prostate
+0.941,1992,White,males,Prostate
+0.959,1995,White,males,Prostate
+0.979,1998,White,males,Prostate
+0.997,2001,White,males,Prostate
+0.998,2006,White,males,Prostate
+0.996,2013,White,males,Prostate
+0.5,1963,White,total,Prostate
+0.63,1973,White,total,Prostate
+0.685,1977,White,total,Prostate
+0.712,1980,White,total,Prostate
+0.731,1983,White,total,Prostate
+0.764,1986,White,total,Prostate
+0.844,1989,White,total,Prostate
+0.941,1992,White,total,Prostate
+0.959,1995,White,total,Prostate
+0.979,1998,White,total,Prostate
+0.997,2001,White,total,Prostate
+0.998,2006,White,total,Prostate
+0.996,2013,White,total,Prostate
+0.863,1977,All races,females,Skin
+0.877,1980,All races,females,Skin
+0.873,1983,All races,females,Skin
+0.91,1986,All races,females,Skin
+0.915,1989,All races,females,Skin
+0.918,1992,All races,females,Skin
+0.926,1995,All races,females,Skin
+0.927,1998,All races,females,Skin
+0.946,2001,All races,females,Skin
+0.952,2006,All races,females,Skin
+0.957,2013,All races,females,Skin
+0.775,1977,All races,males,Skin
+0.777,1980,All races,males,Skin
+0.784,1983,All races,males,Skin
+0.826,1986,All races,males,Skin
+0.849,1989,All races,males,Skin
+0.87,1992,All races,males,Skin
+0.873,1995,All races,males,Skin
+0.895,1998,All races,males,Skin
+0.901,2001,All races,males,Skin
+0.913,2006,All races,males,Skin
+0.92,2013,All races,males,Skin
+0.819,1977,All races,total,Skin
+0.828,1980,All races,total,Skin
+0.828,1983,All races,total,Skin
+0.866,1986,All races,total,Skin
+0.881,1989,All races,total,Skin
+0.892,1992,All races,total,Skin
+0.897,1995,All races,total,Skin
+0.91,1998,All races,total,Skin
+0.922,2001,All races,total,Skin
+0.931,2006,All races,total,Skin
+0.936,2013,All races,total,Skin
+,1963,Black,females,Skin
+,1973,Black,females,Skin
+,1977,Black,females,Skin
+,1980,Black,females,Skin
+,1983,Black,females,Skin
+,1986,Black,females,Skin
+0.895,1989,Black,females,Skin
+,1992,Black,females,Skin
+,1995,Black,females,Skin
+0.786,1998,Black,females,Skin
+0.761,2001,Black,females,Skin
+0.745,2006,Black,females,Skin
+0.749,2013,Black,females,Skin
+,1963,Black,males,Skin
+,1973,Black,males,Skin
+,1977,Black,males,Skin
+,1980,Black,males,Skin
+,1983,Black,males,Skin
+,1986,Black,males,Skin
+,1989,Black,males,Skin
+,1992,Black,males,Skin
+0.666,1995,Black,males,Skin
+0.68,1998,Black,males,Skin
+0.696,2001,Black,males,Skin
+0.7,2006,Black,males,Skin
+0.595,2013,Black,males,Skin
+,1963,Black,total,Skin
+,1973,Black,total,Skin
+0.567,1977,Black,total,Skin
+0.598,1980,Black,total,Skin
+0.619,1983,Black,total,Skin
+0.723,1986,Black,total,Skin
+0.786,1989,Black,total,Skin
+0.596,1992,Black,total,Skin
+0.695,1995,Black,total,Skin
+0.739,1998,Black,total,Skin
+0.732,2001,Black,total,Skin
+0.729,2006,Black,total,Skin
+0.69,2013,Black,total,Skin
+0.68,1963,White,females,Skin
+0.75,1973,White,females,Skin
+0.862,1977,White,females,Skin
+0.879,1980,White,females,Skin
+0.872,1983,White,females,Skin
+0.91,1986,White,females,Skin
+0.913,1989,White,females,Skin
+0.918,1992,White,females,Skin
+0.926,1995,White,females,Skin
+0.927,1998,White,females,Skin
+0.946,2001,White,females,Skin
+0.954,2006,White,females,Skin
+0.957,2013,White,females,Skin
+0.51,1963,White,males,Skin
+0.62,1973,White,males,Skin
+0.777,1977,White,males,Skin
+0.779,1980,White,males,Skin
+0.784,1983,White,males,Skin
+0.822,1986,White,males,Skin
+0.849,1989,White,males,Skin
+0.871,1992,White,males,Skin
+0.871,1995,White,males,Skin
+0.893,1998,White,males,Skin
+0.902,2001,White,males,Skin
+0.914,2006,White,males,Skin
+0.919,2013,White,males,Skin
+0.6,1963,White,total,Skin
+0.68,1973,White,total,Skin
+0.82,1977,White,total,Skin
+0.829,1980,White,total,Skin
+0.827,1983,White,total,Skin
+0.864,1986,White,total,Skin
+0.879,1989,White,total,Skin
+0.893,1992,White,total,Skin
+0.896,1995,White,total,Skin
+0.909,1998,White,total,Skin
+0.922,2001,White,total,Skin
+0.932,2006,White,total,Skin
+0.936,2013,White,total,Skin
+0.166,1977,All races,females,Stomach
+0.189,1980,All races,females,Stomach
+0.187,1983,All races,females,Stomach
+0.209,1986,All races,females,Stomach
+0.243,1989,All races,females,Stomach
+0.254,1992,All races,females,Stomach
+0.226,1995,All races,females,Stomach
+0.242,1998,All races,females,Stomach
+0.252,2001,All races,females,Stomach
+0.308,2006,All races,females,Stomach
+0.346,2013,All races,females,Stomach
+0.144,1977,All races,males,Stomach
+0.143,1980,All races,males,Stomach
+0.164,1983,All races,males,Stomach
+0.155,1986,All races,males,Stomach
+0.17,1989,All races,males,Stomach
+0.181,1992,All races,males,Stomach
+0.201,1995,All races,males,Stomach
+0.21,1998,All races,males,Stomach
+0.234,2001,All races,males,Stomach
+0.261,2006,All races,males,Stomach
+0.289,2013,All races,males,Stomach
+0.152,1977,All races,total,Stomach
+0.161,1980,All races,total,Stomach
+0.172,1983,All races,total,Stomach
+0.176,1986,All races,total,Stomach
+0.197,1989,All races,total,Stomach
+0.209,1992,All races,total,Stomach
+0.21,1995,All races,total,Stomach
+0.223,1998,All races,total,Stomach
+0.241,2001,All races,total,Stomach
+0.279,2006,All races,total,Stomach
+0.311,2013,All races,total,Stomach
+0.14,1963,Black,females,Stomach
+0.1,1973,Black,females,Stomach
+0.161,1977,Black,females,Stomach
+0.18,1980,Black,females,Stomach
+0.167,1983,Black,females,Stomach
+0.221,1986,Black,females,Stomach
+0.225,1989,Black,females,Stomach
+0.237,1992,Black,females,Stomach
+0.219,1995,Black,females,Stomach
+0.253,1998,Black,females,Stomach
+0.207,2001,Black,females,Stomach
+0.349,2006,Black,females,Stomach
+0.385,2013,Black,females,Stomach
+0.05,1963,Black,males,Stomach
+0.15,1973,Black,males,Stomach
+0.161,1977,Black,males,Stomach
+0.156,1980,Black,males,Stomach
+0.162,1983,Black,males,Stomach
+0.169,1986,Black,males,Stomach
+0.166,1989,Black,males,Stomach
+0.22,1992,Black,males,Stomach
+0.175,1995,Black,males,Stomach
+0.204,1998,Black,males,Stomach
+0.25,2001,Black,males,Stomach
+0.236,2006,Black,males,Stomach
+0.257,2013,Black,males,Stomach
+0.08,1963,Black,total,Stomach
+0.13,1973,Black,total,Stomach
+0.161,1977,Black,total,Stomach
+0.164,1980,Black,total,Stomach
+0.164,1983,Black,total,Stomach
+0.191,1986,Black,total,Stomach
+0.188,1989,Black,total,Stomach
+0.227,1992,Black,total,Stomach
+0.193,1995,Black,total,Stomach
+0.226,1998,Black,total,Stomach
+0.232,2001,Black,total,Stomach
+0.286,2006,Black,total,Stomach
+0.314,2013,Black,total,Stomach
+0.13,1963,White,females,Stomach
+0.14,1973,White,females,Stomach
+0.158,1977,White,females,Stomach
+0.182,1980,White,females,Stomach
+0.175,1983,White,females,Stomach
+0.209,1986,White,females,Stomach
+0.231,1989,White,females,Stomach
+0.232,1992,White,females,Stomach
+0.219,1995,White,females,Stomach
+0.232,1998,White,females,Stomach
+0.244,2001,White,females,Stomach
+0.293,2006,White,females,Stomach
+0.331,2013,White,females,Stomach
+0.1,1963,White,males,Stomach
+0.12,1973,White,males,Stomach
+0.131,1977,White,males,Stomach
+0.136,1980,White,males,Stomach
+0.154,1983,White,males,Stomach
+0.143,1986,White,males,Stomach
+0.155,1989,White,males,Stomach
+0.161,1992,White,males,Stomach
+0.189,1995,White,males,Stomach
+0.186,1998,White,males,Stomach
+0.21,2001,White,males,Stomach
+0.255,2006,White,males,Stomach
+0.281,2013,White,males,Stomach
+0.11,1963,White,total,Stomach
+0.13,1973,White,total,Stomach
+0.141,1977,White,total,Stomach
+0.154,1980,White,total,Stomach
+0.162,1983,White,total,Stomach
+0.168,1986,White,total,Stomach
+0.183,1989,White,total,Stomach
+0.188,1992,White,total,Stomach
+0.2,1995,White,total,Stomach
+0.203,1998,White,total,Stomach
+0.223,2001,White,total,Stomach
+0.269,2006,White,total,Stomach
+0.299,2013,White,total,Stomach
+0.925,1977,All races,females,Thyroid
+0.936,1980,All races,females,Thyroid
+0.939,1983,All races,females,Thyroid
+0.943,1986,All races,females,Thyroid
+0.952,1989,All races,females,Thyroid
+0.955,1992,All races,females,Thyroid
+0.967,1995,All races,females,Thyroid
+0.969,1998,All races,females,Thyroid
+0.971,2001,All races,females,Thyroid
+0.984,2006,All races,females,Thyroid
+0.987,2013,All races,females,Thyroid
+0.911,1977,All races,males,Thyroid
+0.872,1980,All races,males,Thyroid
+0.922,1983,All races,males,Thyroid
+0.898,1986,All races,males,Thyroid
+0.916,1989,All races,males,Thyroid
+0.905,1992,All races,males,Thyroid
+0.916,1995,All races,males,Thyroid
+0.91,1998,All races,males,Thyroid
+0.943,2001,All races,males,Thyroid
+0.949,2006,All races,males,Thyroid
+0.962,2013,All races,males,Thyroid
+0.921,1977,All races,total,Thyroid
+0.921,1980,All races,total,Thyroid
+0.936,1983,All races,total,Thyroid
+0.932,1986,All races,total,Thyroid
+0.944,1989,All races,total,Thyroid
+0.943,1992,All races,total,Thyroid
+0.954,1995,All races,total,Thyroid
+0.956,1998,All races,total,Thyroid
+0.965,2001,All races,total,Thyroid
+0.976,2006,All races,total,Thyroid
+0.982,2013,All races,total,Thyroid
+,1963,Black,females,Thyroid
+,1973,Black,females,Thyroid
+0.91,1977,Black,females,Thyroid
+0.955,1980,Black,females,Thyroid
+0.932,1983,Black,females,Thyroid
+0.903,1986,Black,females,Thyroid
+0.923,1989,Black,females,Thyroid
+0.862,1992,Black,females,Thyroid
+0.943,1995,Black,females,Thyroid
+0.964,1998,Black,females,Thyroid
+0.924,2001,Black,females,Thyroid
+0.967,2006,Black,females,Thyroid
+0.979,2013,Black,females,Thyroid
+,1963,Black,males,Thyroid
+,1973,Black,males,Thyroid
+,1977,Black,males,Thyroid
+0.68,1980,Black,males,Thyroid
+1,1983,Black,males,Thyroid
+0.855,1986,Black,males,Thyroid
+0.912,1989,Black,males,Thyroid
+0.845,1992,Black,males,Thyroid
+0.878,1995,Black,males,Thyroid
+0.865,1998,Black,males,Thyroid
+0.884,2001,Black,males,Thyroid
+0.95,2006,Black,males,Thyroid
+0.908,2013,Black,males,Thyroid
+,1963,Black,total,Thyroid
+,1973,Black,total,Thyroid
+0.899,1977,Black,total,Thyroid
+0.902,1980,Black,total,Thyroid
+0.964,1983,Black,total,Thyroid
+0.893,1986,Black,total,Thyroid
+0.923,1989,Black,total,Thyroid
+0.858,1992,Black,total,Thyroid
+0.932,1995,Black,total,Thyroid
+0.95,1998,Black,total,Thyroid
+0.92,2001,Black,total,Thyroid
+0.966,2006,Black,total,Thyroid
+0.969,2013,Black,total,Thyroid
+0.87,1963,White,females,Thyroid
+0.87,1973,White,females,Thyroid
+0.922,1977,White,females,Thyroid
+0.927,1980,White,females,Thyroid
+0.937,1983,White,females,Thyroid
+0.944,1986,White,females,Thyroid
+0.949,1989,White,females,Thyroid
+0.96,1992,White,females,Thyroid
+0.969,1995,White,females,Thyroid
+0.973,1998,White,females,Thyroid
+0.974,2001,White,females,Thyroid
+0.985,2006,White,females,Thyroid
+0.99,2013,White,females,Thyroid
+0.75,1963,White,males,Thyroid
+0.82,1973,White,males,Thyroid
+0.907,1977,White,males,Thyroid
+0.875,1980,White,males,Thyroid
+0.909,1983,White,males,Thyroid
+0.894,1986,White,males,Thyroid
+0.915,1989,White,males,Thyroid
+0.916,1992,White,males,Thyroid
+0.915,1995,White,males,Thyroid
+0.913,1998,White,males,Thyroid
+0.95,2001,White,males,Thyroid
+0.951,2006,White,males,Thyroid
+0.965,2013,White,males,Thyroid
+0.83,1963,White,total,Thyroid
+0.86,1973,White,total,Thyroid
+0.918,1977,White,total,Thyroid
+0.915,1980,White,total,Thyroid
+0.931,1983,White,total,Thyroid
+0.932,1986,White,total,Thyroid
+0.941,1989,White,total,Thyroid
+0.949,1992,White,total,Thyroid
+0.956,1995,White,total,Thyroid
+0.959,1998,White,total,Thyroid
+0.969,2001,White,total,Thyroid
+0.978,2006,White,total,Thyroid
+0.984,2013,White,total,Thyroid
